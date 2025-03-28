@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:cart-aid/api.git
+[submodule "nutrition-optimizer"]
+	path = nutrition-optimizer
+	url = git@github.com:cart-aid/nutrition-optimizer.git
+[submodule "admin-portal"]
+	path = admin-portal
+	url = git@github.com:cart-aid/admin-portal.git
