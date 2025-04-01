@@ -7,3 +7,6 @@
 [submodule "admin-portal"]
 	path = admin-portal
 	url = git@github.com:cart-aid/admin-portal.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = git@github.com:cart-aid/infrastructure

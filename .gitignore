@@ -2,5 +2,6 @@
 !/.git*
 !/api/
 !/admin-portal/
+!/infrastructure/
 !/nutrition-optimizer/
 !/scripts/
