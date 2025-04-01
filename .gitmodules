@@ -9,4 +9,7 @@
 	url = git@github.com:cart-aid/admin-portal.git
 [submodule "infrastructure"]
 	path = infrastructure
-	url = git@github.com:cart-aid/infrastructure
+	url = git@github.com:cart-aid/infrastructure.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:cart-aid/mobile.git
